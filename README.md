@@ -1,3 +1,1 @@
-# mmg
-archivos
-Descarga el fruity mmg
+# mmg descarga el fruity
